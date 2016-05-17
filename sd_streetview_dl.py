@@ -7,7 +7,7 @@ import shutil
 
 BASEPATH = "/data/damoncrockett/streetview/lj/"
 BASEURL = "https://maps.googleapis.com/maps/api/streetview?"
-KEY="key=AIzaSyAcUHvpeU-08T469Ww0xXRVFUUiJ_sALRM&"
+KEY= <redacted>
 SIZE="size=640x640&"
 
 n = len(df.index)
